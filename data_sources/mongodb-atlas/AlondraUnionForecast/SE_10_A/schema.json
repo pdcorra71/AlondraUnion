@@ -1,0 +1,29 @@
+{
+    "properties": {
+        "AS_OF_DAT2,D": {
+            "bsonType": "string"
+        },
+        "CFTC_CONTR,C,7": {
+            "bsonType": "string"
+        },
+        "LT_W,N,4,0": {
+            "bsonType": "int"
+        },
+        "MARKET_AND,C,70": {
+            "bsonType": "string"
+        },
+        "OPEN_INTER,N,10,0": {
+            "bsonType": "int"
+        },
+        "RESUL,N,10,2": {
+            "bsonType": "double"
+        },
+        "RESULF,N,10,2": {
+            "bsonType": "double"
+        },
+        "_id": {
+            "bsonType": "objectId"
+        }
+    },
+    "title": "SE_10_A"
+}

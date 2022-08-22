@@ -1,0 +1,7 @@
+{
+    "enabled": false,
+    "mongo_service_name": "mongodb-atlas",
+    "database_name": "AlondraUnionForecast",
+    "collection_name": "SE_10_A",
+    "user_id_field": "Id"
+}
